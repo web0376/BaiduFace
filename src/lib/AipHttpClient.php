@@ -18,7 +18,7 @@
 /**
  * Http Client
  */
-namespace baidu_face\Api\lib; 
+namespace BaiduFace\Api\lib; 
  
 class AipHttpClient{
 
