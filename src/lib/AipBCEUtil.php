@@ -18,7 +18,7 @@
 /**
  * BCE Util
  */
-namespace baidu_face\Api\lib; 
+namespace BaiduFace\Api\lib; 
 
 class AipHttpUtil
 {
