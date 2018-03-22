@@ -15,9 +15,9 @@
 * the License.
 */
   
-namespace baidu_face\Api\lib;
-use baidu_face\Api\lib\AipBCEUtil;
-use baidu_face\Api\lib\AipHttpClient;
+namespace BaiduFace\Api\lib;
+use BaiduFace\Api\lib\AipBCEUtil;
+use BaiduFace\Api\lib\AipHttpClient;
 
 
 /**
