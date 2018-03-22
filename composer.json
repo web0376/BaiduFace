@@ -1,0 +1,22 @@
+{
+    "name": "web0376/BaiduFace",
+    "description": "百度云人脸识别 SDK FOR PHP",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "liu haha",
+            "email": "web0376@126.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+		"php": ">=5.3"
+	},
+	"autoload": {
+		"psr-4": {
+            "BaiduFace\\Api\\": "src/"
+        }
+	}
+}
+ 
