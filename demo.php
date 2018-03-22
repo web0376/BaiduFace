@@ -3,9 +3,9 @@ require_once __DIR__ . '/vendor/autoload.php';
  
 use BaiduFace\Api\AipFace;  
  
-const APP_ID = '10912480';
-const API_KEY = 'ZQKX0raHY54437xVG8guv5y9';
-const SECRET_KEY = 'HqPkze2SpHILOePMHZeeaE9NdAQG9l20';
+const APP_ID = '1111';
+const API_KEY = '222222';
+const SECRET_KEY = '3333333';
 
 $client = new AipFace(APP_ID, API_KEY, SECRET_KEY);
 
